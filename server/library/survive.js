@@ -5,6 +5,7 @@ function survive(request, response) {
       "You died of dsyentery",
       "A snake gotcha",
       "Your horse made it... you did not",
+      "You made it... your horse didn't",
       "You found gold",
       "You found oil",
       "You didn't even attempt to cross the Oregon trail.",
